@@ -1,7 +1,5 @@
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.csproj.AssemblyReference.cache
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.GeneratedMSBuildEditorConfig.editorconfig
-C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.AssemblyInfoInputs.cache
-C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.AssemblyInfo.cs
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.csproj.CoreCompileInputs.cache
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.MvcApplicationPartsAssemblyInfo.cs
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.MvcApplicationPartsAssemblyInfo.cache
@@ -285,3 +283,7 @@ C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\refint\JwtAuthentication.dl
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.pdb
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.genruntimeconfig.cache
 C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\ref\JwtAuthentication.dll
+C:\my projects\JwtAuthenticationApp\obj\Debug\net6.0\JwtAuthentication.sourcelink.json
+C:\my projects\JwtAuthenticationApp\bin\Debug\net6.0\UnitTest\UnitTest\packages.config
+C:\my projects\JwtAuthenticationApp\bin\Debug\net6.0\nunit.framework.dll
+C:\my projects\JwtAuthenticationApp\bin\Debug\net6.0\nunit.framework.legacy.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FgmMxOyt2p2g2elSpytAOo2p0tw/Mo7rJlXeQ/SF58FWF8EcAgsKlILZMLq/9L28zJzPsyRDm3bmPW4RiqwGJg==",
+  "dgSpecHash": "oO2YrwESOfdokYZDqkVNLSHXpCmsL6yfRQD5CJRX7mERpBKktDswwHR1miNMdldpTSAjb/9leh59uHC+99XolQ==",
   "success": true,
   "projectFilePath": "C:\\my projects\\JwtAuthenticationApp\\JwtAuthentication.csproj",
   "expectedPackageFiles": [
@@ -99,6 +99,7 @@
     "C:\\Users\\supun\\.nuget\\packages\\nuget.projectmodel\\5.11.0\\nuget.projectmodel.5.11.0.nupkg.sha512",
     "C:\\Users\\supun\\.nuget\\packages\\nuget.protocol\\5.11.0\\nuget.protocol.5.11.0.nupkg.sha512",
     "C:\\Users\\supun\\.nuget\\packages\\nuget.versioning\\5.11.0\\nuget.versioning.5.11.0.nupkg.sha512",
+    "C:\\Users\\supun\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
     "C:\\Users\\supun\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\supun\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\supun\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
