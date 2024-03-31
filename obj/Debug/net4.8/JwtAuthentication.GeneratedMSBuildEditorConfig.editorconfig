@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = JwtAuthentication
+build_property.ProjectDir = C:\my projects\JwtAuthenticationApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
